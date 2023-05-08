@@ -80,7 +80,7 @@ namespace exp5
 </br>
 
 ## Output:
-![OUTPUT](c5.png)
+![ou1](https://user-images.githubusercontent.com/93860256/236781878-3a80b27a-06a7-4877-9a53-41f25b62f280.jpg)
 
 ## Result:
 Thus, a C# program to create a sample CPU usage on a network with 4 nodes using a jagged array is executed successfully.
